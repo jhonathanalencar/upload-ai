@@ -1,3 +1,5 @@
+import { Button } from "./components/ui/button";
+
 export function App() {
-  return <h1>Mikasa</h1>;
+  return <Button>Test</Button>;
 }
