@@ -51,8 +51,6 @@ $ cd upload-ai/web
 # Instale as dependências
 $ npm install
 
-# Copie e preencha as variáveis de ambiente do arquivo .env.example em um arquivo .env
-
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
